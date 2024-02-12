@@ -8,7 +8,7 @@ The SMS Spam Detection project aims to develop a machine learning model that can
 The primary objective of this project is to develop a machine learning model capable of accurately identifying spam messages. By leveraging natural language processing (NLP) techniques and machine learning algorithms, the model will analyze the content of text messages and classify them as either spam or ham.
 
 **Dataset:**
-The project utilizes a dataset consisting of labeled SMS messages, where each message is categorized as either spam or ham. The dataset contains a collection of text messages along with their corresponding labels, allowing the model to learn from the provided examples.
+The project utilizes a dataset consisting of labeled SMS messages, where each message is categorized as either spam or ham. The dataset contains a collection of text messages along with their corresponding labels, allowing the model to learn from the provided examples. Dataset link - https://archive.ics.uci.edu/dataset/228/sms+spam+collection
 
 **Methodology:**
 1. **Data Preprocessing:** The text data undergoes preprocessing steps such as tokenization, removing stop words, and stemming to extract meaningful features from the messages.
